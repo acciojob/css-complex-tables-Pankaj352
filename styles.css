@@ -1,5 +1,7 @@
 table {
-  border: 1px solid orange;
+  border-width: 0 0 1px 1px;
+  border-style: solid;
+  border-color: orange;
   border-collapse: collapse;
   width: 100%;
   text-align: center;
